@@ -3,7 +3,7 @@ A place to work on models to understand how artist information and audio feature
 
 # Overall
 
-This was a project to use some data I found from Kaggle to classify beer styles based on their characteristics, primarily tasting notes. If you're curious about the project and process, check out the [page on my website](https://astaylor92.github.io/song-popularity/)
+This was a project to use some data I found from Kaggle to classify beer styles based on their characteristics, primarily tasting notes. If you're curious about the project and process, check out the [page on my website](https://astaylor92.github.io/song-popularity/).
 
 # Files
 
